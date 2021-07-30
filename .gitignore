@@ -3,3 +3,4 @@
 *.csv
 *.code-workspace
 chromedriver.exe
+*.pkl
